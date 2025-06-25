@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working as an <b>IT Application Developer</b> at <b>Panin Dai-ichi Life</b><br>
+🔭 I’m currently working as an <b>Full Stack Developer</b> at <b>Star Generation</b><br>
 👯 I’m looking to collaborate on full-stack development projects<br>
 🤝 I’m open to opportunities and seeking freelance gigs<br>
 🌱 In my free time, I’m focused on building projects and expanding my skills in Next.js, along with other full-stack technologies like React, Node.js, Express, Prisma, PostgreSQL, MongoDB, and RESTful APIs
