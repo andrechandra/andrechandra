@@ -16,8 +16,8 @@
 
 ## 📊 GitHub Stats:
 <div>
-  <a href="https://github.com/andrechandra?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=andrechandra&show_icons=true&theme=radical&count_private=true&hide=contribs" /></a>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrechandra&layout=compact&theme=radical&langs_count=6" />  
+  <a href="https://github.com/andrechandra?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrechandra&show_icons=true&theme=radical&count_private=true&hide=contribs" /></a>  
+  <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrechandra&layout=compact&theme=radical&langs_count=6" />  
 </div>
 
 ---
